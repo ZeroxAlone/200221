@@ -1,0 +1,41 @@
+#01 book title:  How to Think Like a Mathematician: A Companion to Undergraduate Mathematics 
+ number of copies:72
+#02 book title:  Foundation Mathematics for Computer Science: A Visual Approach
+ number of copies:70
+#03 book title:  Essential Discrete Mathematics for Computer Science
+ number of copies:69
+#04 book title:  Mathematical Structures for Computer Science
+ number of copies:77
+#05 book title:  The Pleasures of Counting
+ number of copies:84
+#06 book title:  Discrete Mathematics and Its Applications
+ number of copies:68
+#07 book title:  Discrete Mathematics 
+ number of copies:68
+#08 book title:  Concrete Mathematics, A foundation for Computer Science
+ number of copies:67
+#09 book title:  Logic in Computer Science (Core text book)
+ number of copies:76
+#10 book title:  What is the name of this Book?
+ number of copies:87
+#11 book title:   Introduction to Algorithms
+ number of copies:32
+#12 book title:   Algorithms to Live By: The Computer Science of Human Decisions
+ number of copies:32
+#13 book title:   Python Programming: An Introduction to Computer Science
+ number of copies:32
+#14 book title:   Once Upon an Algorithm: How Stories Explain Computing
+ number of copies:32
+#15 book title:   Algorithmic Puzzles
+ number of copies:32
+#16 book title:  Computational Fairy Tales Jeremy Kubica
+ number of copies:67
+#17 book title:  Computer Science: An Overview
+ number of copies:67
+#18 book title:  The Information: A History, a Theory, a Flood
+ number of copies:84
+#19 book title:  Code: The Hidden Language of Computer Hardware and Software
+ number of copies:67
+#20 book title:  Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists
+ number of copies:79
+#21 book title:  The Code Book: The Secrets Behind Codebreaking number of copies:84
